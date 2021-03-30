@@ -1,0 +1,4 @@
+Component: main
+Label: serena repo
+Architecture: amd64
+Description: Serena's gcp apt repo

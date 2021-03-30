@@ -1,0 +1,27 @@
+Label: serena repo
+Codename: buster
+Date: Tue, 30 Mar 2021 03:01:11 UTC
+Architectures: amd64
+Components: main
+Description: Serena's gcp apt repo
+MD5Sum:
+ d19773128e3fac46cd403d98c718e4ae 397 main/binary-amd64/Packages
+ c2a2dbaed708dabffdd248e38682e33b 289 main/binary-amd64/Packages.gz
+ 7fa378bf0dc75a90b34a21feabc00903 90 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 867041239a212284c5106d70c6099307 91 main/source/Release
+SHA1:
+ bc55aec3dcde5fe7c7e005aee6ab81dabe4d1a62 397 main/binary-amd64/Packages
+ 65ecf1435586e40d4ee346c02ef9ced111cb6ee1 289 main/binary-amd64/Packages.gz
+ c23aeb955bd66ba6f1a7501db867351f936194dc 90 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 916c4c6eff90af737b66009a7cbc542543385b20 91 main/source/Release
+SHA256:
+ ff6f5788b0d91bc0178445fe6d1d87abab893f4a341982a4dfcf89658188b420 397 main/binary-amd64/Packages
+ b153270b4339b02114938606ecaeed1ded9a21fcd21fdffe2d006706d4239aba 289 main/binary-amd64/Packages.gz
+ 59f33662e604457970b5bfe38009a1f5ee8ae7f80ea4d18b7e429d61cdd35ebd 90 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 21880b4e9a2762cb2bc0bb5a7e1b5929ed8ebfcd1309e3f72b789c2c99748ba5 91 main/source/Release

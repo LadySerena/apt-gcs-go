@@ -2,5 +2,9 @@ version: "3.9"
 services:
   fake-gcs:
     image: fsouza/fake-gcs-server
+    volumes:
+      - "./hack:/data"
     ports:
     - 4443:4443
+volumes:
+  fake-deb-repo:

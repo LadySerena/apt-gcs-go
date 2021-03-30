@@ -1,0 +1,15 @@
+Package: serena-test
+Source: serena-test
+Version: 0-1
+Architecture: all
+Installed-Size: 0
+Maintainer: serena
+Priority: optional
+Section: java
+Filename: pool/main/s/serena-test/serena-test_0-1_all.deb
+Size: 638
+SHA256: 0c01b4ac54cad3260784d0d700320af6d59bf26b0d59c202e1c571aac9082f12
+SHA1: 978426a30e080092ff6425a5a0069245dfadf89c
+MD5sum: ab98be1839b5332f4b1f3b04a19cd5ac
+Description: serena-test
+
