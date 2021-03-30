@@ -1,0 +1,6 @@
+Codename: buster
+Components: main
+Label: serena repo
+Architectures: amd64 source
+Description: Serena's gcp apt repo
+Pull: buster
