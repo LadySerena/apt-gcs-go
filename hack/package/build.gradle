@@ -1,0 +1,11 @@
+plugins {
+    id "nebula.ospackage" version "8.5.0"
+}
+
+task minimumDeb(type: Deb) {
+    release '1'
+    packageName = 'serena-test'
+    from('fake') {
+        into '/opt/gouda'
+    }
+}
