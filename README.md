@@ -8,3 +8,9 @@ Code adapted from the following repos
 
 - [apt-gcs](https://github.com/dhaivat/apt-gcs)
 - [apt-transport-cloudflared](https://github.com/cloudflare/apt-transport-cloudflared)
+
+References
+
+- [apt transport spec](http://www.fifi.org/doc/libapt-pkg-doc/method.html/ch2.html)
+- [cloudflare blog post](https://blog.cloudflare.com/apt-transports/)
+- [rfc 822](https://tools.ietf.org/html/rfc822)
